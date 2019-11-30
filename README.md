@@ -1,6 +1,4 @@
 # hello-world
-Hello world
-
 Hello!
 
 I'm John, an experienced Program Manager with a focus in User Research. I have a passion to understand customer experience through client interactions, interviews, usability testing and data to solve impactful problems in technology.
